@@ -1,5 +1,7 @@
 includeestdio.h>
 vold min()
-  (
-  print("HELLO WORLD...!!!");
-  )
+{
+  printf("HELLO WORLD...!!!");
+  
+  printf("\nthis is basic C program");
+}
